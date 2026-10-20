@@ -2,6 +2,12 @@
 
 Trang web học tập mô phỏng động học thuận và ngược của cánh tay robot 3 bậc tự do.
 
+## Học tập và hướng nghiên cứu
+
+Xem [Tổng quan các repo kỹ thuật robot](docs/OVERVIEW_ROBOTICS.md) để chọn công cụ theo hướng nghiên cứu: động học, điều khiển, lập kế hoạch, mô phỏng vật lý, học từ trình diễn, học tăng cường, SLAM, VLA và triển khai robot thật. Tài liệu có 20 repo tham khảo, gợi ý đề tài, tiêu chí đánh giá và các điều kiện chuyển từ mô phỏng sang thực nghiệm.
+
+Trang mô phỏng trực tuyến: https://croznnt.github.io/ky-thuat-robot/.
+
 ## Chức năng
 
 1. Nhập góc ba khớp để tính vị trí X, Y, Z.
